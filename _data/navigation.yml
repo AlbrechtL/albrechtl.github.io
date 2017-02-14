@@ -1,0 +1,33 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Start
+  url: "/"
+  side: left
+
+- title: "Download"
+  url: "#download"
+  side: left
+
+- title: Wiki
+  url: "#wiki"
+  side: left
+
+- title: Support
+  url: "#support"
+  side: left
+
+- title: Sources
+  url: "#sources"
+  side: left
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Info"
+  url: "/info/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
