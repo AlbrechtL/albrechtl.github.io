@@ -46,12 +46,12 @@ permalink: /index.html
 Main Features
 ---
 * DAB and DAB+
+* Windows 10, Linux and Raspberry Pi support
 * Touch optimized GUI
 * Channel scan
 * Slideshow (if station sends it)
 * Radio text
-* Supports rtlsdr (other SDR devices are planned)
-* Windows 10, Linux and Raspberry Pi support
+* Supports airspy, rtlsdr and rtl_tcp
 
 Expert Mode
 ---
