@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: banner4.png
+  image_fullwidth: banner5.jpg
 #widget1:
 #  title: "Widget 1"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -46,12 +46,12 @@ permalink: /index.html
 Main Features
 ---
 * DAB and DAB+
-* Windows 10, Linux and Raspberry Pi support
+* Windows 10, Linux and Raspberry Pi 2/3 support
+* airspy, rtlsdr, rtl_tcp and rawfile support
 * Touch optimized GUI
 * Channel scan
 * Slideshow (if station sends it)
 * Radio text
-* Supports airspy, rtlsdr and rtl_tcp
 
 Expert Mode
 ---
@@ -59,17 +59,23 @@ Expert Mode
 
 Download
 ---
-At the moment there is only a Windows version ready to use (tested with Windows 10). But you can compile welle.io direct from the sources to use it on Linux or the Raspberry Pi.
+At the moment there is only a Windows version ready to use (tested with Windows 10).  
+To use it on Linux or the Raspberry Pi you can compile welle.io direct from the sources. To compile welle.io check [sources](https://github.com/AlbrechtL/welle.io).
 
-### [Download welle.io for Windows](http://github.com/AlbrechtL/welle.io/releases) (alpha version)
+### [Download welle.io for Windows](http://github.com/AlbrechtL/welle.io/releases) (daily build)
+
+Support
+---
+If you need help don't hesitate to open a [new issue](https://github.com/AlbrechtL/welle.io/issues).
+
+FAQ
+---
+Visit the [FAQ list](/faq).
 
 Wiki
 ---
 You will find much more details inside the [Wiki](http://github.com/AlbrechtL/welle.io/wiki) (under construction).
 
-Support
----
-If you need help don't hesitate to open a [new issue](https://github.com/AlbrechtL/welle.io/issues).
 
 Sources
 ---

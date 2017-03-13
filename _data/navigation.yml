@@ -9,13 +9,29 @@
   url: "#download"
   side: left
 
-- title: Wiki
-  url: "#wiki"
+- title: "Devices"
   side: left
+  url: "/devices/"
+  dropdown:
+  - title: "airspy"
+    url: "/devices/airspy"
+  - title: "rtl_sdr"
+    url: "/devices/rtl_sdr"
+  - title: "rtl_tcp"
+    url: "/devices/rtl_tcp"
+  - title: "rawfile"
+    url: "/devices/rawfile"
 
 - title: Support
   url: "#support"
   side: left
+  dropdown:
+  - title: FAQ
+    url: "/faq"
+  - title: General support
+    url: "#support"
+  - title: Wiki
+    url: "#wiki"
 
 - title: Sources
   url: "#sources"

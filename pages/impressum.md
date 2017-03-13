@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: banner5.jpg
 title: "Impressum"
 meta_title: "Impressum"
 subheadline: ""

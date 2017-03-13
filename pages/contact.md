@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+  image_fullwidth: banner5.jpg
 title: "Contact"
 meta_title: "Contact"
 subheadline: ""
