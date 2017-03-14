@@ -39,7 +39,7 @@ header:
 
 permalink: /index.html
 ---
-
+welle.io is a open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
 
 ![Regular-Mode.jpg](images/Regular-Mode.jpg)
 
