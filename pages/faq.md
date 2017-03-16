@@ -12,12 +12,14 @@ The main hardware requirement is the CPU because the decoding needs a lot of CPU
 **Recommened**
 * CPU: 4 cores x86 CPU with 2 GHz (Intel i-series)
 * Display: High resolution with touchscreen
+* Graphic card with OpenGL 2.0 support
 
 **Minimum**
 * CPU
  * 4 core x86 CPU with 1.3 GHz (Intel Atom Z8300 or Intel Atom Z3736F)
  * 4 core ARM Cortex-A7 CPU with 900 MHz (Raspberry Pi 2)
 * Display: 800 x 480 pixels
+* Graphic card with OpenGL 2.0 support
 
 Please report if you are able to run welle.io on other hardware platforms.
 
