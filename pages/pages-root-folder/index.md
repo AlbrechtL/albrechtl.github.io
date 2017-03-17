@@ -68,17 +68,18 @@ Support
 ---
 If you need help don't hesitate to open a [new issue](https://github.com/AlbrechtL/welle.io/issues).
 
-FAQ
----
+### FAQ
 Visit the [FAQ list](/faq).
 
-Wiki
----
+### Wiki
 You will find much more details inside the [Wiki](http://github.com/AlbrechtL/welle.io/wiki) (under construction).
 
+Development
+----------
+**Any contributions and pull requests are welcome!**  
+Please take a look into the [task list](https://github.com/AlbrechtL/welle.io/wiki/Open-Tasks) and the [issues](https://github.com/AlbrechtL/welle.io/issues). But also any new ideas are welcome!
 
-Sources
----
+### Sources
 Please visit the GitHub repository: [https://github.com/albrechtl/welle.io](https://github.com/albrechtl/welle.io)
 
 
