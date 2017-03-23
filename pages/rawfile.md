@@ -7,7 +7,7 @@ teaser: ""
 permalink: /devices/rawfile
 ---
 
-The RAW files input is for developers how have recorded I/Q samples files. You can use this input to analyse your RAW files or to test welle.io.
+The RAW files input is for developers how have recorded I/Q samples files. You can use this input to analyse your RAW files or to test welle.io. By default welle.io uses raw file in the u8 format (see below).
 
 **Windows**
   ```
@@ -20,13 +20,39 @@ welle-io.exe -D rawfile -F yourfile
   ```
 
 ## File Format
-The I/Q samples have to be in 8-bit in the following format.
-![rawfile_format.png](/images/rawfile_format.png)
-* Size: 8-bit per I and Q sample
+welle.io supports different rawfiles formats. You can chnage the raw file format with the option "-B". Please read the next sections below for more details.
+
+### u8 - 8 Bit unsigned
+The I/Q samples have to be in 8-bit unsigned in the following format.
+![rawfile_format_u8.png](/images/rawfile_format_u8.png)
+* Size: 8-bit unsigned per I and Q sample
 * Sample rate: 2048000 samples/s
 
+**Example**
+  ```
+# welle-io -D rawfile -F yourfile -B u8
+  ```
 
-## Record a RAW file
+**Sources**
+* rtl_tcp
+* odr-dabmod
+* qt-dab (*.raw)
+
+### s16le - 16 Bit signed little endian
+The I/Q samples have to be in 16-bit signed little endian in the following format.
+![rawfile_format_s16le.png](/images/rawfile_format_s16le.png)
+* Size: 16-bit signed little endian per I and Q sample
+* Sample rate: 2048000 samples/s
+
+**Example**
+  ```
+# welle-io -D rawfile -F yourfile -B s16le
+  ```
+
+**Sources**
+* qt-dab (*.sdr)
+
+## Record an u8 RAW file
 There are several options to create a RAW file.
 
 ### rtl_sdr
