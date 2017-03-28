@@ -11,4 +11,5 @@ The following devices are supported
 * [airspy](/devices/airspy)
 * [rtl_sdr](/devices/rtl_sdr)
 * [rtl_tcp](/devices/rtl_tcp)
+* [SoapySDR](/devices/soapysdr)
 * [rawfile](/devices/rawfile)
