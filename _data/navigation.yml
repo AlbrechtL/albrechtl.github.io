@@ -19,7 +19,7 @@
     url: "/devices/rtl_sdr"
   - title: "rtl_tcp"
     url: "/devices/rtl_tcp"
-- title: "SoapySDR"
+  - title: "SoapySDR"
     url: "/devices/soapysdr"
   - title: "rawfile"
     url: "/devices/rawfile"
