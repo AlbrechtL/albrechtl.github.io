@@ -2,7 +2,7 @@
 layout: page
 header:
   image_fullwidth: banner5.jpg
-title: "soapysdr"
+title: "SoapySDR"
 teaser: ""
 permalink: /devices/soapysdr
 ---
