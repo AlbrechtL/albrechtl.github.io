@@ -49,7 +49,7 @@ Main Features
 ---
 * DAB and DAB+
 * Windows 10, Linux and Raspberry Pi 2/3 support
-* [airspy](/devices/airspy), [rtlsdr](/devices/rtl_sdr), [rtl_tcp](/devices/rtl_tcp) and [rawfile](/devices/rawfile) support
+* [airspy](/devices/airspy), [rtlsdr](/devices/rtl_sdr), [rtl_tcp](/devices/rtl_tcp), [SoapySDR](/devices/soapysdr) and [rawfile](/devices/rawfile) support
 * Touch optimized GUI
 * Channel scan
 * Slideshow (if station sends it)
