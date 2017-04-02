@@ -64,7 +64,7 @@ Download
 At the moment there is only a Windows version ready to use (tested with Windows 10).  
 To use it on Linux or the Raspberry Pi you can compile welle.io direct from the sources. To compile welle.io check [sources](https://github.com/AlbrechtL/welle.io).
 
-### [Download welle.io for Windows](http://github.com/AlbrechtL/welle.io/releases) (daily build)
+### [Download welle.io for Windows and Linux](http://github.com/AlbrechtL/welle.io/releases) (developer build)
 
 Support
 ---
