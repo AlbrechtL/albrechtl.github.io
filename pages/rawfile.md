@@ -35,8 +35,20 @@ The I/Q samples have to be in 8-bit unsigned in the following format.
 
 **Sources**
 * rtl_tcp
-* odr-dabmod
 * qt-dab (*.raw)
+
+### s8 - 8 Bit signed
+The I/Q samples have to be in 8-bit signed. For the format please see the format u8.
+* Size: 8-bit signed per I and Q sample
+* Sample rate: 2048000 samples/s
+
+**Example**
+  ```
+# welle-io -D rawfile -F yourfile -B s8
+  ```
+
+**Sources**
+* odr-dabmod
 
 ### s16le - 16 Bit signed little endian
 The I/Q samples have to be in 16-bit signed little endian in the following format.
@@ -52,10 +64,10 @@ The I/Q samples have to be in 16-bit signed little endian in the following forma
 **Sources**
 * qt-dab (*.sdr)
 
-## Record an u8 RAW file
+## Record an RAW file
 There are several options to create a RAW file.
 
-### rtl_sdr
+### rtl_sdr (Format u8)
 You can use the command line tool "rtl_sdr" to record a file with a rtl_sdr device.
   ```
 # rtl_sdr -f frequency -s 2048000 -n samplecount yourfile
@@ -68,7 +80,7 @@ The following command records a 10 s file from the channel "5C" with the file na
 # dab_raw_record -c 5C -t 10
   ```
 
-### odr-dabmod
+### odr-dabmod (Format s8)
 If you would like to test your [Opendigitalradio](http://www.opendigitalradio.org/) broadcasting set up without having broadcast hardware you can create an I/Q file.  
 Use "odr-dabmod" with this [INI-file](../download/DabMod.ini) and the following command.
   ```
