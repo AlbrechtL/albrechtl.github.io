@@ -48,7 +48,8 @@ You can watch a [short video on youtube](https://youtu.be/NvKreB6w_H8).
 Main Features
 ---
 * DAB and DAB+
-* Windows 10, Linux and Raspberry Pi 2/3 support
+* Windows 10, Linux, macOS
+* Runs on small devices like Raspberry Pi 2/3
 * [airspy](/devices/airspy), [rtl-sdr (RTL2832U)](/devices/rtl_sdr), [rtl_tcp](/devices/rtl_tcp), [SoapySDR](/devices/soapysdr) and [rawfile](/devices/rawfile) support
 * Touch optimized GUI
 * Channel scan
