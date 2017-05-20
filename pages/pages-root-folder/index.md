@@ -48,8 +48,8 @@ You can watch a [short video on youtube](https://youtu.be/NvKreB6w_H8).
 Main Features
 ---
 * DAB and DAB+
-* Windows 10, Linux, macOS
-* Runs on small devices like Raspberry Pi 2/3
+* Windows 10, Linux, macOS, Android
+* Runs on small devices like Raspberry Pi 2/3 or mobile phones
 * [airspy](/devices/airspy), [rtl-sdr (RTL2832U)](/devices/rtl_sdr), [rtl_tcp](/devices/rtl_tcp), [SoapySDR](/devices/soapysdr) and [rawfile](/devices/rawfile) support
 * Touch optimized GUI
 * Channel scan
@@ -62,10 +62,9 @@ Expert Mode
 
 Download
 ---
-At the moment there is only a Windows version ready to use (tested with Windows 10).  
-To use it on Linux or the Raspberry Pi you can compile welle.io direct from the sources. To compile welle.io check [sources](https://github.com/AlbrechtL/welle.io).
+### [Download welle.io for Windows, Linux and Android](http://github.com/AlbrechtL/welle.io/releases) (developer build)
 
-### [Download welle.io for Windows and Linux](http://github.com/AlbrechtL/welle.io/releases) (developer build)
+To use it on macOS or on a Raspberry Pi you can compile welle.io direct from the sources. To compile welle.io check [sources](https://github.com/AlbrechtL/welle.io).
 
 Support
 ---
