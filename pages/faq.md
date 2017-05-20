@@ -33,7 +33,10 @@ Please report if you are able to run welle.io on other hardware platforms.
 The settings are stored inside the Windows registry at the key `HKEY_CURRENT_USER\SOFTWARE\welle.io\welle.io`
 
 **Linux**  
-The settings are stored inside you local settings folder `~/.config/welle.io/welle.io.conf`
+The settings are stored inside your local settings folder `~/.config/welle.io/welle.io.conf`
+
+**Android**  
+The settings are stored at the file `/data/data/io.welle.welle/files/.config/welle.io/welle.io.conf`
 
 ## How can I delete the settings?
 **Windows**
@@ -42,3 +45,6 @@ The settings are stored inside you local settings folder `~/.config/welle.io/wel
 
 **Linux**
 * Delete the file `~/.config/welle.io/welle.io.conf`
+
+**Android**
+* Just deinstall welle.io from your phone or tabled
