@@ -62,7 +62,9 @@ Expert Mode
 
 Download
 ---
-### [Download welle.io for Windows, Linux and Android](http://github.com/AlbrechtL/welle.io/releases) (developer build)
+welle.io is under heavy development. You can try the latest developer build.
+ * ### [welle.io for Windows, Linux and Android (APK) ](http://github.com/AlbrechtL/welle.io/releases)
+ * ### [welle.io for Android at Google Play](https://play.google.com/store/apps/details?id=io.welle.welle)
 
 To use it on macOS or on a Raspberry Pi you can compile welle.io direct from the sources. To compile welle.io check [sources](https://github.com/AlbrechtL/welle.io).
 
