@@ -41,8 +41,6 @@ permalink: /index.html
 ---
 welle.io is an open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr. It supports high DPI and touch displays and it runs even on cheap computers like Raspberry Pi 2/3 and 100€ China Windows 10 tablets.
 
-You can watch a [short video on youtube](https://youtu.be/NvKreB6w_H8).
-
 ![Regular-Mode.jpg](images/Regular-Mode.jpg)
 
 Main Features
@@ -55,6 +53,11 @@ Main Features
 * Channel scan
 * Slideshow (if station sends it)
 * Radio text
+
+Demo Videos
+---
+ * Running under Windows 10: https://youtu.be/NvKreB6w_H8
+ * Running under Android: https://youtu.be/3qhwzORfq7k
 
 Expert Mode
 ---
