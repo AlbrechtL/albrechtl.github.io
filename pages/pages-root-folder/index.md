@@ -56,8 +56,8 @@ Main Features
 
 Demo Videos
 ---
- * Running under Windows 10: https://youtu.be/NvKreB6w_H8
- * Running under Android: https://youtu.be/3qhwzORfq7k
+ * Running under Windows 10: [https://youtu.be/NvKreB6w_H8](https://youtu.be/NvKreB6w_H8)
+ * Running under Android: [https://youtu.be/3qhwzORfq7k](https://youtu.be/3qhwzORfq7k)
 
 Expert Mode
 ---
