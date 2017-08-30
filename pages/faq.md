@@ -47,4 +47,4 @@ The settings are stored at the file `/data/data/io.welle.welle/files/.config/wel
 * Delete the file `~/.config/welle.io/welle.io.conf`
 
 **Android**
-* Just deinstall welle.io from your phone or tabled
+* Just deinstall welle.io from your phone or tablet
