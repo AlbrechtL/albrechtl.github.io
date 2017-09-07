@@ -7,6 +7,8 @@
 layout: page-fullwidth
 header:
   image_fullwidth: banner5.jpg
+lang: en
+ref: index
 #widget1:
 #  title: "Widget 1"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -73,13 +75,15 @@ To use it on macOS or on a Raspberry Pi you can compile welle.io direct from the
 
 Support
 ---
-If you need help don't hesitate to open a [new issue](https://github.com/AlbrechtL/welle.io/issues).
+### Forum
+
+
+If you need help don't hesitate to use one of two options
+* Use the [forum](https://forum.welle.io/)
+* Open a [new issue](https://github.com/AlbrechtL/welle.io/issues) on Github.
 
 ### FAQ
 Visit the [FAQ list](/faq).
-
-### Wiki
-You will find much more details inside the [Wiki](http://github.com/AlbrechtL/welle.io/wiki) (under construction).
 
 Development
 ----------
@@ -88,5 +92,8 @@ Please take a look into the [task list](https://github.com/AlbrechtL/welle.io/wi
 
 ### Sources
 Please visit the GitHub repository: [https://github.com/albrechtl/welle.io](https://github.com/albrechtl/welle.io)
+
+### Wiki
+You will find much more details inside the [Wiki](http://github.com/AlbrechtL/welle.io/wiki) (under construction).
 
 

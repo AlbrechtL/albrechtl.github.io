@@ -24,20 +24,22 @@
   - title: "rawfile"
     url: "/devices/rawfile"
 
-- title: Support
-  url: "#support"
+- title: Forum
+  url: "https://forum.welle.io/"
+  side: left
+
+- title: FAQ
+  url: "/faq"
+  side: left
+
+- title: Development
   side: left
   dropdown:
-  - title: FAQ
-    url: "/faq"
-  - title: General support
-    url: "#support"
+  - title: Sources
+    url: "#sources"
+    side: left
   - title: Wiki
     url: "#wiki"
-
-- title: Sources
-  url: "#sources"
-  side: left
 
 #
 #   Navigation to the right › side: right
